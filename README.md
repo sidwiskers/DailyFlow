@@ -13,7 +13,7 @@ DailyFlow is a simple, reliable reminder application designed to keep your day o
 
 Get the latest version of DailyFlow from the Releases.
 
-<a href="YOUR_LINK_HERE">
+<a href="https://github.com/sidwiskers/DailyFlow/releases/download/v1.0/DailyFlow.apk">
   <img src="https://img.shields.io/badge/Download_APK-Click_Here-2ea44f?style=for-the-badge&logo=android" height="50">
 </a>
 
