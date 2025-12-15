@@ -1,4 +1,4 @@
-# DailyFlow 📅
+# DailyFlow
 
 **Never miss a beat.**
 DailyFlow is a simple, reliable reminder application designed to keep your day organized. Set reminders effortlessly and get notified exactly when you need to be.
@@ -9,7 +9,7 @@ DailyFlow is a simple, reliable reminder application designed to keep your day o
 
 ---
 
-## 📥 Download
+## Download
 
 Get the latest version of DailyFlow from the Releases.
 
@@ -21,16 +21,15 @@ Get the latest version of DailyFlow from the Releases.
 
 ---
 
-## ✨ Key Features
+## Features
 
 * **Easy Setup:** Create reminders in seconds.
 * **Timely Notifications:** Precise alerts so you never miss a task.
 * **Clean Interface:** A minimal, distraction-free design.
-* **Offline Capable:** Works perfectly without an internet connection.
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 | Reminder | Status |
 |:---:|:---:|
@@ -39,7 +38,7 @@ Get the latest version of DailyFlow from the Releases.
 
 ---
 
-## 🛠 Installation Guide
+## Installation Guide
 
 1.  Click the **Download APK** button above.
 2.  Open the downloaded file (`DailyFlow.apk`).
