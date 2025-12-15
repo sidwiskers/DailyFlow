@@ -32,9 +32,10 @@ Get the latest version of DailyFlow from the Releases.
 
 ## 📱 Screenshots
 
-| Main Screen | Reminder View |
+| Reminder | Status |
 |:---:|:---:|
-| *(Upload screenshot here)* | *(Upload screenshot here)* |
+| ![Reminder](home.png) | ![Status](status.png) |
+
 
 ---
 
